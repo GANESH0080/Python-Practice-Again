@@ -1,0 +1,1 @@
+print("EMPLOYEE ID is : %d and Name of EMPLOYEE is %s."%(25,"Ganesh"))

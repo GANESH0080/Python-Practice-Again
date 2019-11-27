@@ -1,0 +1,1 @@
+print("Entered String is : " ,"Hello Ganesh")

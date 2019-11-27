@@ -1,0 +1,3 @@
+import VariablesInModules
+
+VariablesInModules.myfunction()

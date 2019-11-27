@@ -1,0 +1,1 @@
+# Tuples are unchangeable, so you cannot remove items from it, but you can delete the tuple completely:
